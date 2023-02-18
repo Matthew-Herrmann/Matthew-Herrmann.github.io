@@ -1,1 +1,4 @@
-# Matthew-Herrmann.github.io
+# Golf Grids
+#
+# Contact Information
+# Email: support@golfgrids.com

@@ -1,5 +1,5 @@
 <h1>Contact Information</h1>
-[support@golfgrids.com](mailto:support@golfgrids.com)  
+Email: [support@golfgrids.com](mailto:support@golfgrids.com)  
 
 <h1>Privacy Policy</h1>
 <p>Last updated: February 19, 2023</p>
